@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="135px" height="135px" viewBox="0 0 135 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="125px" height="45px" viewBox="0 0 125 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>Rectangle 2</title>
+    <title>Group</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Rectangle-2">
-            <g id="Group">
-                <rect id="Rectangle" stroke="#32E8B7" stroke-width="5" fill-opacity="0" fill="#181717" x="2.5" y="2.5" width="130" height="130" rx="21"></rect>
-                <text id="kbh" font-family="RobotoCondensed-Regular, Roboto Condensed" font-size="58" font-style="condensed" font-weight="normal" fill="#000000">
-                    <tspan x="14" y="82">kbh</tspan>
-                </text>
-            </g>
+        <g id="Group" transform="translate(-3.000000, -10.000000)">
+            <text id="kbh" font-family="RobotoCondensed-Regular, Roboto Condensed" font-size="58" font-style="condensed" font-weight="normal" fill="#000000">
+                <tspan x="0" y="54">kbh</tspan>
+            </text>
+            <path d="M105.967218,53.001541 C110.136965,55.0863784 109.35934,53.8523082 111.887843,49.8042963 C113.911379,46.5638809 116.553183,43.7931098 118.965531,40.893699 C124.631431,34.0849456 135.610284,12.1014895 119.882541,10.0824983 C115.637803,9.5374143 111.351901,11.7469668 108.472082,15.1277959 C105.592263,18.509061 103.973434,22.9290382 103.080877,27.4026517 C102.088876,23.7706479 101.059787,20.0566635 98.9722644,17.0024488 C96.8843341,13.9482341 93.4905815,11.6340254 89.972523,12.0195088 C84.8201486,12.5842159 81.5172818,18.833495 82.0577065,24.3445124 C82.5981311,29.8550937 85.9217835,34.5755212 89.4793753,38.6021658 C93.8887676,43.5925189 100.095907,50.0663727 105.967218,53.001541" id="Fill-4" fill="#32E8B7"></path>
         </g>
     </g>
 </svg>
