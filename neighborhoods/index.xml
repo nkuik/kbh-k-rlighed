@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kbh kærlighed</title>
+    <title>Neighborhoods on kbh kærlighed</title>
     <link>https://nkuik.github.io/kbh-k-rlighed/neighborhoods/</link>
-    <description>Recent content on kbh kærlighed</description>
+    <description>Recent content in Neighborhoods on kbh kærlighed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 19:27:37 +1000</lastBuildDate>
     
 	<atom:link href="https://nkuik.github.io/kbh-k-rlighed/neighborhoods/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,11 +17,7 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>https://nkuik.github.io/kbh-k-rlighed/neighborhoods/n%C3%B8rrebro/</guid>
-      <description>ToC  Breakfast/Brunch Coffee Lunch Dinner Things To Do  Breakfast/Brunch Breakfast Spot [Top]
-Coffee [Top]
-Lunch [Top]
-Dinner [Top]
-Things To Do [Top]</description>
+      <description>blah</description>
     </item>
     
   </channel>
