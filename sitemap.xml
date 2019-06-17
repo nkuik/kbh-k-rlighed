@@ -3,19 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nkuik.github.io/kbh-k-rlighed/neighborhoods/n%C3%B8rrebro/</loc>
+    <loc>https://nkuik.github.io/kbh-k-rlighed/neighborhoods/n%C3%B8rrebro/n%C3%B8rrebro/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkuik.github.io/kbh-k-rlighed/neighborhoods/inner-kbh/inner-kbh/</loc>
+    <lastmod>2019-06-17T20:35:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkuik.github.io/kbh-k-rlighed/neighborhoods/</loc>
+    <lastmod>2019-06-17T20:35:05+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nkuik.github.io/kbh-k-rlighed/</loc>
     <lastmod>2019-06-03T19:14:39+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nkuik.github.io/kbh-k-rlighed/neighborhoods/</loc>
-    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
